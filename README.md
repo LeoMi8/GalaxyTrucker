@@ -205,6 +205,18 @@ Developed as a group project by four students at **Politecnico di Milano**.
 
 ---
 
+## 💻 My Contributions
+
+My main contributions to the project focused on **software architecture and client-server functionality**, including:
+
+- **Class Design:** Contributed to the design and organization of the application's object-oriented class structure, defining responsibilities and relationships between components.
+- **Client–Server Architecture:** Worked on the structure of the multiplayer system, focusing on communication and interaction between clients and the game server.
+- **Functionality Implementation:** Contributed to the development and integration of application features within the overall architecture.
+
+The project was developed collaboratively by a team of four students.
+
+---
+
 ## 🎓 Academic Context
 
 **University:** Politecnico di Milano  
