@@ -213,8 +213,6 @@ My main contributions to the project focused on **software architecture and clie
 - **Client–Server Architecture:** Worked on the structure of the multiplayer system, focusing on communication and interaction between clients and the game server.
 - **Functionality Implementation:** Contributed to the development and integration of application features within the overall architecture.
 
-The project was developed collaboratively by a team of four students.
-
 ---
 
 ## 🎓 Academic Context
